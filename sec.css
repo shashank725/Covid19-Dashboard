@@ -1,0 +1,27 @@
+@import "main.css";
+p{
+    color: #fff;
+    font-size: 17px;
+}
+a.link{ 
+    color: #54ffc8;
+    text-decoration: none;
+}
+.about-text{
+    max-width: 750px;
+    margin-left: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 25px;
+}
+.about-text h5{
+    color: #fff;
+    font-size: 25px;
+}
+.foot{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #fff;
+    font-size: 14px;
+}
